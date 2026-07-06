@@ -98,17 +98,6 @@ Contains the comparison tables, charts, and visualisations used to compare the o
 
 ---
 
-# Position in the Complete Project Series
-
-| Phase | Project |
-|------|---------|
-| Phase 3 | Machine Learning for Financial Data Analysis |
-| Phase 4 | Natural Language Processing for Financial Data Analysis |
-| Phase 5 | Building Reusable Analytical Systems |
-| **Phase 6** | **Reusable Framework Validation for Financial Data Analysis** |
-
----
-
 # Key Outcome
 
 This project demonstrates that a reusable analytical framework is valuable not only because it can process newly appended compatible data, but because it continues to preserve meaningful analytical understanding as financial data evolves over time.
